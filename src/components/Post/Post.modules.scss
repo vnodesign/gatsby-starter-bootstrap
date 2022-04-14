@@ -1,0 +1,115 @@
+@import "../../assets/scss/variables.scss";
+
+.vno-article {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 46.875rem;
+
+    &.posttitle {
+        font-weight: 600;
+        font-size: 2.26563rem;
+    }
+
+    .badge-featured {
+        background-color: $color-primary !important;
+        color: $color-white;
+        padding: 0.3125rem 0.625rem;
+        border-radius: 0.25rem;
+        font-size: 0.8125rem;
+        font-weight: 600;
+        margin-bottom: 0.625rem;
+    }
+
+    p {
+        font-size: 1.01953rem;
+        line-height: 1.89844rem;
+        margin-bottom: 1.89844rem;
+    }
+
+    .article-post {
+        font-family: inherit;
+        font-size: 1.01953rem;
+        line-height: 1.89844rem;
+
+        .h1,
+        .h2,
+        .h3,
+        .h4,
+        .h5,
+        .h6,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-weight: 700;
+            margin-bottom: 1.5rem
+        }
+
+
+        a {
+            color: $color-base;
+
+            &:hover {
+                color: $color-primary;
+            }
+        }
+
+        .post-content {
+            padding: 20px 0 0 0;
+            a {
+                color: $color-primary !important;
+            }
+            ol,
+            ul {
+                list-style: decimal;
+                margin-bottom: 1.5rem;
+                padding: 0;
+            }
+
+            ol ol,
+            ul ul {
+                margin-bottom: 0;
+                padding: 0;
+            }
+
+        }
+
+        .before-post {
+            border-bottom: 1px solid rgba(128,137,150,.1);
+        }
+
+    }
+
+    .post-categories,
+    .post-tags {
+        list-style: none;
+        padding-left: 0;
+        margin: 0.5rem 0;
+
+        li {
+            display: inline-block;
+            font-size: .9rem;
+            padding: 0 2px;
+
+            a {
+                background: rgba(0, 0, 0, .05);
+                color: rgba(0, 0, 0, .6) !important;
+                border-radius: 18px;
+                padding: 5px 10px;
+
+                &:hover {
+                    background: rgba(0, 0, 0, .07);
+                }
+            }
+        }
+    }
+
+    .vno-share {
+        .react-share__ShareButton {
+            margin: 0 0.2rem;
+        }
+    }
+
+}

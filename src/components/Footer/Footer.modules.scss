@@ -1,0 +1,35 @@
+@import "../../assets/scss/variables";
+
+.footer {
+    padding: 20px;
+    font-size: .8rem;
+    color: $color-base;
+    position: relative;
+    margin: 0 auto;
+    bottom: 0;
+    width: 100%;
+    background: $background-primary;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    p {
+        margin: 0;
+    }
+
+    a {
+        color: $color-base;
+        &:hover {
+            color: $color-primary;
+        }
+    }
+
+    .socials {
+        font-size: 16px;
+    
+        a {
+            margin: 0 0.5rem;
+        }
+    }
+    
+}

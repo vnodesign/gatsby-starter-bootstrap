@@ -1,0 +1,34 @@
+/** 
+ * Variables
+ */
+
+// Colors
+$color-base: #4c5267;
+$color-primary: #fe2c55;
+$color-secondary: #fe9c55;
+$color-white: #fff;
+$color-black: #000;
+
+// Background
+$background-base: #f7f9fb;
+$background-primary: #fff;
+$background-secondary: #18191A;
+
+// Dark Colors
+$dark-base: #fff;
+$dark-primary: #fe2c55;
+$dark-secondary: #fe9c55;
+
+// Dark Background
+$dark-background-base: #18191A;
+$dark-background-primary: #fe2c55;
+$dark-background-secondary: #fe9c55;
+
+// Navbar
+$navbar-background: rgba(255, 255, 255, .97);
+$navbar-color: $color-base;
+$navbar-color-hover: $color-primary;
+$navbar-color-active: $color-primary;
+$navbar-background-box-search: #f0f2f5;
+$navbar-backdrop-filter: saturate(180%) blur(20px);
+

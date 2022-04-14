@@ -1,0 +1,50 @@
+@import "../../assets/scss/variables";
+
+.vno-navbar {
+
+    background-color: $navbar-background !important;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+    transition: top .2s ease-in-out;
+
+    .form-control {
+        background: $navbar-background-box-search !important;
+        font-size: .8rem;
+        border-radius: 50px;
+        overflow: hidden;
+        border: unset;
+        min-width: 180px;
+
+        &::-webkit-input-placeholder,
+        &:-moz-placeholder,
+        &::-moz-placeholder,
+        &:-ms-input-placeholder,
+        &::-ms-input-placeholder {
+            color: $color-base;
+        }
+        &:focus {
+            box-shadow: unset;
+        }
+
+    }
+
+    .navbar-brand {
+        font-weight: 500
+    }
+
+    .nav-link {
+        font-size: .9rem;
+
+        &:hover,
+        &.active {
+            color: $navbar-color-hover !important;
+        }
+    }
+
+    .navbar-brand img {
+        width: 2rem;
+        border-radius: 100%;
+        margin: 0 0 5px;
+    }
+
+}

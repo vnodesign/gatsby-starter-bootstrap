@@ -1,0 +1,23 @@
+.categoriesList {
+    display: inline-block;
+    margin: 0 auto;
+    .list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        .item {
+            display: inline-block;
+            .category-list-item {
+                margin: 5px;
+                background: rgba(0, 0, 0, .05);
+                color: rgba(0, 0, 0, .6) !important;
+                padding: 5px 10px;
+                border-radius: 25px;
+                &:hover,
+                &:focus {
+                    background: rgba(0, 0, 0, .07);
+                }
+            }
+        }
+    }
+}
