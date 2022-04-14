@@ -6,7 +6,7 @@ const config = {
   siteTitleAlt: "Gatsby Starter Bootstrap", // Alternative site title for SEO.
   siteLogo: "/tuanducdesign.jpg", // Logo used for SEO and manifest.
   siteSEO: "/CA0E67E9-AAD0-4D36-82D8-674C7504DFD1.jpg", // Used when share to Twitter and Facebook
-  siteUrl: "https://gatsby.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://gatsby-starter-bootstrap.pages.dev", // Domain of your website without pathPrefix.
   pathPrefix: "", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
     "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.", // Website description used for RSS feeds/meta description tag.
