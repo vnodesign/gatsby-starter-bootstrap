@@ -31,7 +31,7 @@ At browser go to localhost:8000.
 * Posts Featured
 * SEO Optimization and Json Schema
 * Tags and categories with pagination
-* Homepage, categpry and tag as list of articles, support "Load more" function
+* Homepage, category and tag as list of articles, support "Load more" function
 * Code highlight using [Prism.js](https://prismjs.com/)
 * Disqus for comment
 * Style using [React Bootstrap](https://react-bootstrap.github.io/) and Bootstrap 5.1.3
