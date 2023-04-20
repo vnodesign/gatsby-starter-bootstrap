@@ -34,7 +34,7 @@
     "gatsby-plugin-react-helmet": "^5.12.1",
     "gatsby-plugin-robots-txt": "^1.7.1",
     "gatsby-plugin-sass": "^5.12.1",
-    "gatsby-plugin-sharp": "^4.12.1",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-typography": "^4.12.1",
     "gatsby-remark-autolink-headers": "^5.12.1",
     "gatsby-remark-copy-linked-files": "^5.12.1",
