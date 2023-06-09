@@ -14,7 +14,7 @@
     "classnames": "^2.3.1",
     "default-passive-events": "^2.0.0",
     "eslint-plugin-react-hooks": "^4.4.0",
-    "gatsby": "^4.12.1",
+    "gatsby": "^4.25.7",
     "gatsby-codemods": "^3.12.1",
     "gatsby-design-tokens": "^4.12.1",
     "gatsby-image": "^3.11.0",
