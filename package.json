@@ -85,7 +85,7 @@
     "sass-loader": "12.6.0",
     "standard-version": "9.3.2",
     "stylefmt": "6.0.3",
-    "stylelint": "14.6.1",
+    "stylelint": "15.10.1",
     "stylelint-config-standard": "25.0.0",
     "webpack": "5.72.0",
     "write-good": "1.0.8"
