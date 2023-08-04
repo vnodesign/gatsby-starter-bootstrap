@@ -5,7 +5,7 @@
   "author": "Tuan Duc Design <miumiu.official.56@gmail.com>",
   "dependencies": {
     "@babel/core": "^7.17.12",
-    "@popperjs/core": "^2.11.5",
+    "@popperjs/core": "^2.11.8",
     "ansi-regex": "^6.0.1",
     "@babel/eslint-parser": "^7.11.5",
     "bootstrap": "5.1.3",
