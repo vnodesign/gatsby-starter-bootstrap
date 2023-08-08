@@ -13403,13 +13403,13 @@ react-disqus-comments@^1.4.0:
   resolved "https://registry.npmjs.org/react-disqus-comments/-/react-disqus-comments-1.4.0.tgz#bf56ff319a35d086f3070d31a4f70ed21ce3a958"
   integrity sha512-NkCNsnBSujliii5N2HbA6Wy5z2s6GtCtPaJ0D6GWNMSKnP8wmEtQ3u2qAeG9+xHJE2cMRFmfqMpDeJtBay38RA==
 
-react-dom@^18.0.0:
-  version "18.0.0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.0.0.tgz#26b88534f8f1dbb80853e1eabe752f24100d8023"
-  integrity sha512-XqX7uzmFo0pUceWFCt7Gff6IyIMzFUn7QMZrbrQfGxtaxXZIcGQzoNpRLE3fQLnS4XzLLPMZX2T9TRcSrasicw==
+react-dom@^18.2.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0.tgz#22aaf38708db2674ed9ada224ca4aa708d821e3d"
+  integrity sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==
   dependencies:
     loose-envify "^1.1.0"
-    scheduler "^0.21.0"
+    scheduler "^0.23.0"
 
 react-error-overlay@^6.0.9:
   version "6.0.10"
@@ -13474,10 +13474,10 @@ react-typography@^0.16.23:
   resolved "https://registry.yarnpkg.com/react-typography/-/react-typography-0.16.23.tgz#68c0af17ed876a30fcea256ef0dbbf0bc01b63b3"
   integrity sha512-nOl1/VDhqYSp5XktW/xmeLgE2S4L0LIWKAq2lNtc6Tq+3ZgvSX2Q0r0vlLKyOVq0hjsOYubE1TLoz/Wu/W8GLg==
 
-react@^18.0.0:
-  version "18.0.0"
-  resolved "https://registry.npmjs.org/react/-/react-18.0.0.tgz#b468736d1f4a5891f38585ba8e8fb29f91c3cb96"
-  integrity sha512-x+VL6wbT4JRVPm7EGxXhZ8w8LTROaxPXOqhlGyVSrv0sB1jkyFGgXxJ8LVoPRLvPR6/CIZGFmfzqUa2NYeMr2A==
+react@^18.2.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
+  integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
   dependencies:
     loose-envify "^1.1.0"
 
@@ -14390,10 +14390,10 @@ sax@>=0.6.0, sax@^1.2.4, sax@~1.2.4:
   resolved "https://registry.npmjs.org/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
   integrity sha512-NqVDv9TpANUjFm0N8uM5GxL36UgKi9/atZw+x7YFnQ8ckwFGKrl4xX4yWtrey3UJm5nP1kUbnYgLopqWNSRhWw==
 
-scheduler@^0.21.0:
-  version "0.21.0"
-  resolved "https://registry.npmjs.org/scheduler/-/scheduler-0.21.0.tgz#6fd2532ff5a6d877b6edb12f00d8ab7e8f308820"
-  integrity sha512-1r87x5fz9MXqswA2ERLo0EbOAU74DpIUO090gIasYTqlVoJeMcl+Z1Rg7WHz+qtPujhS/hGIt9kxZOYBV3faRQ==
+scheduler@^0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.23.0.tgz#ba8041afc3d30eb206a487b6b384002e4e61fdfe"
+  integrity sha512-CtuThmgHNg7zIZWAXi3AsyIzA3n4xx7aNyjwC2VJldO2LMVDhFK+63xGqq6CsJH4rTAt6/M+N4GhZiDYPx9eUw==
   dependencies:
     loose-envify "^1.1.0"
 
